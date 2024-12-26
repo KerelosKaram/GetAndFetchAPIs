@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dekFv1lDRjNW5PCeTLiy19jBY2q0X6I55cghxF8spS0=",
+  "Source": "GetAndFetchAPIs",
+  "BasePath": "_content/GetAndFetchAPIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

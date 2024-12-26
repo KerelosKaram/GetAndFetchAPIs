@@ -1,0 +1,6 @@
+@GetAndFetchAPIs_HostAddress = http://localhost:5132
+
+GET {{GetAndFetchAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
